@@ -66,7 +66,7 @@ Este bookmarklet **baixa e executa** código remoto sempre que você clica. Use 
 ## 🙌 Créditos
 
 * Autor do script: **CrimsonStrauss**
-* Empacotamento em bookmarklet/README: você 😉
+* Empacotamento em bookmarklet/README: bis
 
 ---
 
